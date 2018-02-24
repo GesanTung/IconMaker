@@ -8,3 +8,5 @@ IconMaker是基于automator制作的App图标自动生成工具，简单易用�
 
 #### 附automator教程:
 https://www.raywenderlich.com/58986/automator-for-mac-tutorial-and-examples
+
+#### 更多骚操作，尽在iOSTips，关注公众号，第一时间get新姿势
